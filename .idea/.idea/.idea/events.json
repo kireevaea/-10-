@@ -1,0 +1,7 @@
+{
+  "events": [
+    {"signature": "SQL Injection", "timestamp": "2025-02-08T12:00:00"},
+    {"signature": "XSS Attack", "timestamp": "2025-02-08T12:05:00"},
+    {"signature": "SQL Injection", "timestamp": "2025-02-08T12:10:00"}
+  ]
+}
